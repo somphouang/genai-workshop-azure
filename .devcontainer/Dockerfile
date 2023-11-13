@@ -7,4 +7,5 @@ RUN
 # Add in your own requirements below.
 # For best maintainability use a specific version.
 COPY requirements.txt .
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
