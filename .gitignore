@@ -1,5 +1,5 @@
 llm_download_cache
-env
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
